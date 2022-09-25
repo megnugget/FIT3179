@@ -1,9 +1,9 @@
-Rank,Team/NOC,Gold Medal,Silver Medal,Bronze Medal,Total,Rank by Total,NOCCode
+Rank,Country,Gold Medal,Silver Medal,Bronze Medal,Total,Rank by Total,NOCCode
 1,United States of America,39,41,33,113,1,USA
-2,People's Republic of China,38,32,18,88,2,CHN
+2,China,38,32,18,88,2,CHN
 3,Japan,27,14,17,58,5,JPN
-4,Great Britain,22,21,22,65,4,GBR
-5,ROC,20,28,23,71,3,ROC
+4,United Kingdom,22,21,22,65,4,GBR
+5,Russia,20,28,23,71,3,ROC
 6,Australia,17,7,22,46,6,AUS
 7,Netherlands,10,12,14,36,9,NED
 8,France,10,12,11,33,10,FRA
@@ -32,7 +32,7 @@ Rank,Team/NOC,Gold Medal,Silver Medal,Bronze Medal,Total,Rank by Total,NOCCode
 31,Slovenia,3,1,1,5,42,SLO
 32,Uzbekistan,3,0,2,5,42,UZB
 33,Georgia,2,5,1,8,29,GEO
-34,Chinese Taipei,2,4,6,12,22,TPE
+34,Taiwan,2,4,6,12,22,TPE
 35,Turkey,2,2,9,13,20,TUR
 36,Greece,2,1,1,4,47,GRE
 36,Uganda,2,1,1,4,47,UGA
@@ -47,7 +47,7 @@ Rank,Team/NOC,Gold Medal,Silver Medal,Bronze Medal,Total,Rank by Total,NOCCode
 46,Romania,1,3,0,4,47,ROU
 46,Venezuela,1,3,0,4,47,VEN
 48,India,1,2,4,7,33,IND
-49,"Hong Kong, China",1,2,3,6,39,HKG
+49,Hong Kong,1,2,3,6,39,HKG
 50,Philippines,1,2,1,4,47,PHI
 50,Slovakia,1,2,1,4,47,SVK
 52,South Africa,1,2,0,3,60,RSA
