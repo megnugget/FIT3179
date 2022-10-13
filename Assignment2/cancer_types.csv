@@ -1,0 +1,661 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1990,1198054.0084465146,1454478.1835172223,980428.3001623118
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1990,561475.0754754381,641524.6945007945,514349.8051244872
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1990,351396.4582902176,435550.25332137063,258868.51360468354
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1990,673841.6385220255,694074.2909396593,653077.2767968511
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1990,1119215.69193036,1154296.6220870295,1083013.6039902547
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1990,423569.26520214044,559067.2754321926,360087.72777718154
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1990,639050.4873356796,671631.8379589664,596165.3699026055
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1990,489194.2339984394,536585.5012214184,388238.28954324714
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1990,1469039.9105336487,1537028.1451723468,1397874.8978254143
+Prevalence,Global,Both,All ages,Liver cancer,Number,1990,433326.6797537203,482718.79322675534,390104.68956719735
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1990,674622.9345010321,705958.7097518148,643800.777392818
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1990,1385578.692950084,1443422.67034091,1334784.0833149143
+Prevalence,Global,Both,All ages,Breast cancer,Number,1990,8600673.23676856,9333561.753679221,7998297.712248117
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1990,1538196.4668102132,1779519.8108771169,1390310.948573326
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1990,1260384.848871164,1309674.7791518474,1186441.5932482162
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1990,3651762.526208705,4216029.763982889,2880851.725082693
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1990,3984505.2871578885,4120694.1772598005,3847638.351766341
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1990,637727.8589866476,662459.5628910877,616026.4656680449
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1990,243481.468980554,262233.3339783835,223234.26899635562
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1990,77827.77951309405,80510.3030896259,75070.6217456594
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1990,133723.38501070053,147033.33975453876,119762.86287719794
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1990,160427.7091880264,165501.93182752063,154234.57996919443
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1991,504357.34399630345,551630.2960000642,397089.0920893028
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1991,1491160.7102375068,1562613.4704902505,1424738.0194727734
+Prevalence,Global,Both,All ages,Liver cancer,Number,1991,461269.48228868196,502614.7572250557,424029.17750485387
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1991,692723.212654301,722553.2150635108,662748.395348689
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1991,1424778.5075882794,1477087.9688549435,1375245.8427416692
+Prevalence,Global,Both,All ages,Breast cancer,Number,1991,8838852.657887466,9503260.433546228,8299989.014266375
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1991,1557701.8861252458,1781858.9722281657,1411254.2648088445
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1991,1291936.5361699066,1340239.5525720965,1217695.5620571023
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1991,3858312.568657934,4446582.3388387365,3027629.097663864
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1991,4138043.1508645853,4261817.540014086,4010650.611956785
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1991,652634.9725128503,676453.1897768191,628608.4599930246
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1991,254035.20972648883,272897.35313310666,235078.2058719663
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1991,81262.86984455533,84093.05915136218,78448.63530142857
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1991,136015.29889200974,150213.08486197813,121287.51262130289
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1991,165830.78952474985,170953.4913972573,159581.93550960853
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1991,1298941.6291767117,1585815.7779784699,1058792.1259936425
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1991,576560.5235629226,651945.0561654719,531559.1848079922
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1991,364144.3230818031,448998.48482921335,273563.3141217897
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1991,704263.1832155611,724142.9084275304,683657.0345415566
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1991,1163571.609371229,1197026.7264270957,1128553.2855933253
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1991,437251.30808500206,564358.079085356,371408.9663729243
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1991,665989.7890270367,701927.2334608834,623863.1741974058
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1992,518305.24844493106,564128.7021788205,404920.38996219175
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1992,1515858.6791740733,1583830.8483172185,1448722.1563741977
+Prevalence,Global,Both,All ages,Liver cancer,Number,1992,487420.2110217441,523571.73317142215,456428.95223781845
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1992,709779.1510288165,739388.9476578039,681306.0577706466
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1992,1468945.8975246246,1519974.1438997171,1419868.0362506474
+Prevalence,Global,Both,All ages,Breast cancer,Number,1992,9084799.725206021,9688894.648151211,8580376.909755778
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1992,1589061.4159822483,1808314.68356403,1442365.3772623697
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1992,1327031.7321796017,1377978.836168487,1249621.1475131018
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1992,4065718.928155082,4675237.901322597,3172854.91170612
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1992,4296220.758627893,4410839.2082968345,4170230.1531453757
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1992,666664.8420478499,689255.9978955853,643799.5751040053
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1992,261783.9337022093,279994.436015128,243657.15261777796
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1992,85772.91117800969,88744.18449782669,83011.70106701758
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1992,138454.32779976152,152070.07310535113,123752.84241385377
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1992,171467.22993401892,176399.96821114467,165242.29895943287
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1992,1373022.1901815124,1680003.9502915202,1116202.5357398025
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1992,591896.0071254489,665292.1885591694,549231.7521550648
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1992,377637.5842775805,465223.7333813287,287624.9731362717
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1992,736300.6631542216,756433.2849632446,717538.5850555546
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1992,1207902.5830854478,1238459.8300979855,1173280.9711536237
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1992,450497.66017756274,577599.6519558091,384218.0425552294
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1992,694012.0495414172,728636.3275923921,648151.7688819675
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1996,1640940.9876631,1686501.5364834864,1594255.254782176
+Prevalence,Global,Both,All ages,Breast cancer,Number,1996,10125213.484940954,10632767.803756474,9702428.554534817
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1996,1750845.9914393183,2043735.4410103182,1593590.466143382
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1996,1473108.2182040683,1524958.35763949,1374980.467325974
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1996,4826315.635772385,5557307.182323689,3788896.729200103
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1996,4905449.892751516,5015605.058935241,4774565.414672407
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1996,742456.9118736559,762827.0534939935,719152.0717238823
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1996,305559.8390539918,324090.2058247974,287625.0698426206
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1996,101809.3562546193,104886.55460008969,99150.17537763754
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1996,147726.23355953002,163257.969660851,132889.0878329831
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1996,194243.11059338742,198822.51084914999,187506.17684394759
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1994,1573059.387898449,1619848.1964178425,1524835.5386893558
+Prevalence,Global,Both,All ages,Breast cancer,Number,1994,9599481.45031657,10121871.161082283,9173185.24942993
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1994,1676135.396423958,1966784.4457440164,1519841.3677430486
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1994,1426843.0243364284,1476051.3287368356,1344229.3003648105
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1994,4465741.1271850495,5113630.942684457,3484530.6858621184
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1994,4611949.836711252,4723071.73969517,4484965.243895548
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1994,709740.8505813582,731158.1640050067,686032.5398032211
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1994,281123.54025131924,299760.22687523946,264118.93427310046
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1994,95546.59532217256,98845.98773496004,92838.98071673198
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1994,144023.1897128539,158670.74089220574,128764.40575994027
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1994,185213.79031391267,189876.01518436163,178659.4948741032
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1995,1496877.5795981959,1815022.7316915293,1224412.39024949
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1995,653907.9529587625,725035.9199934063,611384.4649432088
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1995,410118.8108185848,496265.83691663813,322213.262445029
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1995,831586.8329962653,856521.8455239895,805903.3242209489
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1995,1331990.28209042,1364524.439711779,1296744.9007037056
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1995,494834.9889582822,606001.7734770989,421085.7738412613
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1995,796218.3161863991,835127.7033191336,741432.2706366779
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1994,1464493.2814738485,1782466.7183131978,1200581.291811844
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1994,628047.6682035127,696940.2101761275,587302.7152217561
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1994,400123.16268627427,487895.71539387957,311686.4865983347
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1994,805442.1266585884,830695.7461340976,780673.3056292012
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1994,1293407.6632419243,1323486.8573196945,1259469.2216305237
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1994,481225.3205035881,600040.2019336714,411929.6675917526
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1994,764762.8766041639,803325.9415892375,714545.8867151958
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1994,547350.4793660421,593242.4209674039,428060.3630190267
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1994,1560170.859474496,1624999.700876404,1503919.5734256236
+Prevalence,Global,Both,All ages,Liver cancer,Number,1994,532642.5042330583,565310.5316751237,502055.2214938248
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1994,740435.3785041432,769662.243055814,711200.8379100928
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1995,560438.3833510933,602624.2660147928,434706.551752957
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1995,1571944.1803066863,1631960.5396279516,1514435.648302951
+Prevalence,Global,Both,All ages,Liver cancer,Number,1995,550545.5963876544,589536.0599393756,516979.9130825893
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1995,751612.711061719,782367.7870498195,721748.6989235557
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1993,535734.9875653277,580125.3545889416,416240.6017808048
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1993,1550743.1540430214,1612439.8990497738,1487919.2708434872
+Prevalence,Global,Both,All ages,Liver cancer,Number,1993,511129.47061191953,542916.5504363654,482210.054882897
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1993,726580.4230543952,755743.7199425235,697801.9012805267
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1993,1427198.5168869353,1748634.39931365,1170868.603820525
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1993,610598.9454361161,681913.9686822795,570940.2885783619
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1993,390278.3039846827,479970.0661548219,301274.683424273
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1993,775946.9182972406,800863.1921874916,754148.8619340399
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1993,1252364.3391537878,1282069.71183096,1218905.5116030045
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1993,467316.4854438715,589171.8211055695,398078.135438616
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1993,731451.90548223,771956.0711866365,682308.3700316768
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1993,1531664.7558189507,1575712.845797004,1483865.1702723207
+Prevalence,Global,Both,All ages,Breast cancer,Number,1993,9345139.964496428,9909318.932940682,8882197.089994343
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1993,1628164.9467891592,1895564.7918223797,1481322.1240997412
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1993,1392006.9848912836,1441682.342174823,1309362.513956878
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1993,4275104.097643916,4905938.124552088,3327877.564621758
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1993,4461901.656661201,4575532.634889393,4338126.950468208
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1993,690641.491652554,713138.9420498633,667211.9942081184
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1993,272267.2160158098,290559.91993466706,253921.53444259166
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1993,91438.31792701864,94634.81587073619,88676.59985230169
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1993,141861.6972209106,156126.0533974122,127758.2580613803
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1993,179657.91176878338,184587.72301141216,173198.81158976167
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1995,1614633.921550469,1658967.0760129513,1570268.1155882555
+Prevalence,Global,Both,All ages,Breast cancer,Number,1995,9857824.1707356,10376303.856978828,9424413.296754578
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1995,1713759.926978442,1992949.8587478562,1555817.4220910692
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1995,1445388.243809386,1495380.7234817313,1354598.55664613
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1995,4649350.413514425,5323072.188710277,3628038.110235848
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1995,4758020.4482347965,4874755.751959474,4619618.579975071
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1995,727003.8518951285,747631.8025583874,703693.7764389623
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1995,292637.4043402864,311363.62834528554,275631.27592963655
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1995,98727.5341509102,101995.79746472155,95993.87624005692
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1995,145880.1161443575,160714.76796155967,131320.07636702884
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1995,190212.68147143006,195144.1113347259,183900.2053268853
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1997,593265.8780424017,634076.8511156939,454734.70053521503
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1997,1588611.3200713538,1650348.6318086064,1528087.2798912516
+Prevalence,Global,Both,All ages,Liver cancer,Number,1997,578406.7706545063,607216.4517114067,552167.3681932554
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1997,768958.707470071,800121.7733050578,740073.4340656219
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1997,1672244.9844883308,1716261.3644475932,1620901.0707555276
+Prevalence,Global,Both,All ages,Breast cancer,Number,1997,10410802.292145351,10905014.524967892,9995308.048089957
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1997,1795773.5265995858,2066436.6671307508,1645172.4185344952
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1997,1507253.376286948,1558200.2559688003,1403909.7350789257
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1997,5012466.633640941,5816650.539669919,3967061.6765880366
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1997,5073004.860422311,5184994.7352127135,4932670.740450596
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1997,760264.3397465057,782295.0434782456,735256.0205099252
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1997,321594.32726191345,340294.9716851274,302865.12980877777
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1997,106242.25562165129,109145.71781541442,103367.54107335473
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1997,150413.78982542965,166163.36710502242,135845.07616235517
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1997,199142.97194890684,203823.80449884624,191979.85634965845
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1996,575784.4053597719,616163.8732398853,443313.6353781507
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1996,1575827.5146934332,1639684.2946833281,1517094.3767056463
+Prevalence,Global,Both,All ages,Liver cancer,Number,1996,565928.0803563099,598083.0968975057,537746.206629934
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1996,760900.7130340468,790666.3310888549,732778.0554172441
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1996,1452417.2461874573,1735869.0355550414,1206973.1736562757
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1996,670049.8307871034,742501.9575272445,624171.6688517787
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1996,421912.5973453652,509047.2931508662,332685.0740653364
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1996,853983.2446161868,876256.76316959,833118.2989809193
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1996,1369688.2038276698,1402151.0073318393,1334287.099205019
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1996,510605.71065853833,610281.169657856,429700.41776111396
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1996,826236.0740212225,863232.4922442668,765111.8889338931
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1999,956392.6936736339,1101510.5107470234,832983.9138021052
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1999,723275.1464899762,800508.4706394422,669366.0583942677
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1999,468548.75527813646,556567.3201212003,377207.71685437724
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1999,950218.5496270913,972635.9646170274,927327.5722902364
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1999,1496147.261690127,1531144.2661828946,1458453.8105526937
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1999,564277.930721115,637926.5778099049,471873.0545199618
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1999,935913.4814122039,979436.0255863362,857510.1448394371
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2000,907703.2319685292,1036529.2204199136,799820.2701440875
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2000,746356.5743913065,821349.8093053957,691108.3481628528
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2000,482651.32348683657,572070.1725958125,388155.6130104409
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2000,988573.315971337,1012117.9112638652,965702.2997173638
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2000,1538800.5915562834,1576368.0687772762,1498793.3511294336
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2000,580528.283671261,650764.4477974549,479825.8546253096
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2000,975390.2615943893,1016552.0575189881,893550.2410729555
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1999,640245.2237009277,685785.1948665725,480902.8298216283
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1999,1667984.091990483,1729351.0494364458,1603645.742361845
+Prevalence,Global,Both,All ages,Liver cancer,Number,1999,595064.2931839125,625495.6989690515,567412.7167248928
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1999,783703.0770610684,813990.2617650192,754940.479834696
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1999,1777867.496104342,1822710.448933401,1724136.3696166552
+Prevalence,Global,Both,All ages,Breast cancer,Number,1999,11012795.21965595,11521852.392931096,10591286.349762997
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1999,1884096.6271466154,2160973.501224079,1713087.9960775096
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1999,1635091.2552593125,1692255.2080811248,1507922.9838725408
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1999,5417464.629149206,6367525.702262168,4363796.301706463
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1999,5453755.799089627,5581128.75571169,5306088.943505471
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1999,792814.9904306697,815872.7062101437,768485.2364779857
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1999,354167.6924670415,375689.1990826574,332299.0345078429
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1999,116651.98709098122,119629.80421071475,113923.60174778996
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1999,158542.053035582,172966.80294143606,142728.11019740338
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1999,214130.4779149721,219055.66721041806,206597.6132956946
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1998,1114728.515505203,1301661.8483548702,954009.7063218284
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1998,704929.4090441694,780826.6196988561,649906.8613599729
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1998,451499.17409953644,541683.4035772537,360557.5896389735
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1998,913556.5980065898,934526.4735057895,892956.0835670965
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1998,1452041.5465956477,1485563.450716647,1414685.4949158216
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1998,546964.5314877479,628583.6325141516,460334.7052063449
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1998,895533.2511898511,935621.9022501144,819843.9109549869
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2000,669811.1859721836,721133.9294633004,499730.8754593591
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2000,1708082.1262551483,1778816.5332605224,1639693.2870306508
+Prevalence,Global,Both,All ages,Liver cancer,Number,2000,599336.4500491259,633778.9034769665,567559.229893671
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2000,792528.7520124037,823893.1428021822,762582.6565408978
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2000,1830053.2348471337,1881987.7087927272,1777065.596856303
+Prevalence,Global,Both,All ages,Breast cancer,Number,2000,11307773.80971249,11831312.893885773,10871528.078872213
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2000,1925622.5499445023,2181389.127246751,1739685.87009949
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2000,1693264.0167201057,1749948.9398059938,1558668.5243239135
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2000,5617772.9729434475,6649380.834702108,4547508.950132315
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2000,5642082.151077911,5785786.609440184,5481270.3175406875
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2000,809262.0448716318,832646.6539459391,785660.9466168984
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2000,365529.0791517415,390298.2277247844,342504.5908265645
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2000,121207.59115600758,124207.6362062181,118596.58470562697
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2000,162565.5572704363,174509.44005479375,146868.58677760343
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2000,221874.38927257236,227784.73535036933,214227.2385236341
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,1997,1301821.8672419006,1537215.7186173105,1097499.5476548185
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,1997,687121.9986551234,760119.8206290515,636326.1065880765
+Prevalence,Global,Both,All ages,Testicular cancer,Number,1997,435170.30990618624,522259.56343873095,345147.2846131126
+Prevalence,Global,Both,All ages,Kidney cancer,Number,1997,880000.1432732618,901361.1125417247,859722.6793205832
+Prevalence,Global,Both,All ages,Bladder cancer,Number,1997,1409547.1922615936,1441862.0574327507,1373298.2537135254
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,1997,528355.1805419553,618505.31773178,444697.8353201912
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,1997,858171.1030947559,897733.265936175,792062.7883695974
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,1998,614374.3651806195,656271.9815985413,466927.623440297
+Prevalence,Global,Both,All ages,Stomach cancer,Number,1998,1624791.7321207132,1685762.6061643222,1566183.1278811644
+Prevalence,Global,Both,All ages,Liver cancer,Number,1998,587885.6804935412,616603.2452369811,561926.8699958227
+Prevalence,Global,Both,All ages,Larynx cancer,Number,1998,775998.0160985125,806447.6512791808,747081.7133372287
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,1998,1719077.572987834,1760908.1977046495,1669778.4868297565
+Prevalence,Global,Both,All ages,Breast cancer,Number,1998,10709326.7440521,11204909.674324522,10293235.63458305
+Prevalence,Global,Both,All ages,Cervical cancer,Number,1998,1835335.399653306,2126232.1467715357,1661659.6664644713
+Prevalence,Global,Both,All ages,Uterine cancer,Number,1998,1558451.8867059378,1616698.228316246,1447020.2302872632
+Prevalence,Global,Both,All ages,Prostate cancer,Number,1998,5214684.455830375,6089986.642840834,4165664.0027773785
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,1998,5258742.292208048,5376248.22028258,5111688.175781083
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,1998,775910.9998759315,799068.1320041136,752552.7928390279
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,1998,339733.3542414583,361553.47489147825,320204.4113438455
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,1998,111396.46683923493,114316.70255679933,108500.01252026738
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,1998,154021.60054221036,169223.86074356287,138484.9021832306
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,1998,205814.5936093392,210916.7937969879,199012.17635669146
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2001,699423.2715317841,755961.0555670942,507850.88075463806
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2001,1756194.749863978,1833748.9826644978,1678316.296390941
+Prevalence,Global,Both,All ages,Liver cancer,Number,2001,590761.9340446448,617865.5632161205,565142.2722327777
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2001,802669.6216044483,833083.4699999267,772969.096392883
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2001,1877562.08934382,1933367.5827453854,1816655.9620398975
+Prevalence,Global,Both,All ages,Breast cancer,Number,2001,11612353.511655811,12127588.409330528,11185824.098411474
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2001,1971646.6547802344,2239901.671064596,1781035.7504903865
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2001,1758913.8639385095,1826479.5253790016,1615200.6105740422
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2001,5836788.221460603,6936697.507652968,4765273.513570301
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2001,5850082.731107157,5996121.132653184,5675163.024769545
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2001,827528.7445621657,851711.5044616486,802152.989875098
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2001,374624.0269590044,398423.9897655812,352379.95688077423
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2001,126803.27491559702,129817.45763924437,123789.73051162122
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2001,166622.57798233486,178356.6651194191,150482.55323152192
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2001,230278.87054210607,236096.06461399232,221117.93667982312
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2001,1012606.8963817141,1146871.8058009017,894543.9322499443
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2001,766134.9232924604,847327.2862924894,716445.7596204014
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2001,493179.31433193624,584016.6678251887,397596.54837804724
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2001,1028540.8630519446,1052376.8695753908,1004643.1924318653
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2001,1586270.9525533007,1623523.6124452883,1544113.214314402
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2001,595644.3576964793,665069.0608338729,493188.43970131746
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2001,1012862.4882135969,1055047.9710086058,933593.1523674974
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2005,815642.4975146137,878404.6946504866,587374.6060872378
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2005,2062714.8907207646,2168317.049832042,1963638.2809532327
+Prevalence,Global,Both,All ages,Liver cancer,Number,2005,498637.59855845344,520827.7541906804,478187.2641312456
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2005,852713.9509584124,888533.6554095764,820369.1681028471
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2005,1840860.1131918358,2071841.806740842,1645624.3612699711
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2005,841917.6329242528,914200.9492910985,791704.54335026
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2005,558106.2787385373,651499.4489542034,458993.26573290874
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2005,1228760.465052506,1260024.9352885345,1195635.833828374
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2005,1817214.3615223994,1863702.298274777,1756518.6781044581
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2005,670257.4926428391,729594.326384775,555333.0226396944
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2005,1210022.7067457652,1256669.2679623675,1105582.5079559616
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2003,769696.5144630483,831173.066782406,554359.2204088179
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2003,1923944.717223347,2013739.5622184908,1838170.712755222
+Prevalence,Global,Both,All ages,Liver cancer,Number,2003,531611.7534142792,552911.0401712304,511616.1347321609
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2003,825571.598292819,858384.8289439433,796220.3022008879
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2004,800417.8396346025,867037.9146259091,571846.9336710904
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2004,2007793.2693788619,2104177.9389073728,1910395.7747795214
+Prevalence,Global,Both,All ages,Liver cancer,Number,2004,505071.07878313924,525424.320077812,486248.8339798451
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2004,836998.1850745196,869929.1482586169,805685.5586231919
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2003,1476635.0940205492,1656702.5313612528,1321704.527077803
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2003,805388.302893251,871661.6608145796,757244.298572595
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2003,527708.1275628326,615687.9736570219,431250.2014080816
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2003,1128636.1017514875,1156548.0249144896,1100624.0651656326
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2003,1699210.685989246,1738546.2300954352,1647661.8567707934
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2003,629217.6906469143,687837.8297511851,523258.12445846305
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2003,1102632.0685957216,1143958.904577324,1018009.54499886
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2005,2145537.1380437776,2219797.3752713096,2063661.5540483515
+Prevalence,Global,Both,All ages,Breast cancer,Number,2005,13012730.307787728,13558075.639119864,12532509.03547835
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2005,2160238.930455626,2388771.0207164646,1935686.5442024933
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2005,2117303.4025727184,2205354.4261251325,1913647.3555654646
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2005,6836830.346725231,8374662.485424056,5728471.880839184
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2005,6918407.587060642,7116314.266083513,6654222.664409285
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2005,915745.3376101353,944360.9589570848,887224.865376218
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2005,449538.9735593457,481172.8804030965,422470.37436424627
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2005,151942.7940992752,155338.9956179609,148585.3544631017
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2005,189586.70056661183,199822.51187753453,165780.54900079238
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2005,272271.8269972819,280390.37203134835,259750.41514526293
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2004,1704503.853432113,1915710.3718748505,1527315.7853999292
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2004,824347.7436507785,894453.4885177368,776459.3355402532
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2004,543562.4223139539,636924.2159825852,441733.1981392738
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2004,1174290.207458284,1202667.3104819003,1144683.726782033
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2004,1757497.8931116462,1798942.3188303667,1702704.062074967
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2004,649224.2037403471,706735.1179268092,541435.1883222354
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2004,1148942.9450511641,1193192.7157520456,1056910.2094037419
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2004,2075741.3195228213,2146269.9253317984,2000854.476393441
+Prevalence,Global,Both,All ages,Breast cancer,Number,2004,12647610.48981643,13169941.767670412,12179226.753172563
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2004,2105348.990167774,2322491.130907515,1866090.8545433017
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2004,2014691.8565652356,2096383.762111444,1837052.787335797
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2004,6601379.04992716,7991336.398955219,5490467.098917708
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2004,6645308.846716741,6814335.3191451365,6429228.9099374525
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2004,884551.5330830247,911785.9289757351,857733.6935243758
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2004,426512.5798376338,454017.49181654584,401115.2044240615
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2004,144799.7322032825,147964.58647255535,141596.5674071797
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2004,183488.79560289986,193430.39561371208,162332.4874285235
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2004,260267.5655359513,267944.9540101882,248741.60936167638
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2002,733481.3090865022,789568.4811777872,531331.64547977
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2002,1829990.611561809,1907054.9053582335,1745975.999452676
+Prevalence,Global,Both,All ages,Liver cancer,Number,2002,564536.1743810795,587689.5036481948,542334.5455824306
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2002,813978.5559596026,845287.3925702571,784363.0438568229
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2002,1942522.2774667072,1999258.95368853,1881332.4185831696
+Prevalence,Global,Both,All ages,Breast cancer,Number,2002,11945274.050126627,12457763.359844068,11514109.617603075
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2002,2016009.3076410303,2229047.974321949,1815599.7875008197
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2002,1834539.9756489564,1905399.1075598728,1683982.1027079138
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2002,6088479.925512518,7288652.852592395,5016134.406136372
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2002,6100353.794727194,6250299.986094912,5915114.677256415
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2002,847080.561698773,872776.4757110847,820660.2173808453
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2002,385595.5895918232,409536.21829993784,362333.7021684261
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2002,133315.5364401812,136385.55657345353,130377.38850879147
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2002,172256.65447684887,181897.49039497,154673.65469566936
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2002,240579.11977846408,247047.24898072213,231945.5845959968
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2002,1223786.8525291227,1380684.4737922403,1090257.428617023
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2002,786948.1147152684,856725.9849741925,738998.0241832337
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2002,511056.84266451804,600800.6629981915,413219.93639893876
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2002,1074547.2092672063,1101327.4016985018,1048978.7368235344
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2002,1640634.8016506457,1677988.5972152299,1592554.230245815
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2002,611878.233828708,676838.6431834729,506646.3947949746
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2002,1054316.3767137143,1097435.7147123052,965253.2983466858
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2003,2014285.7532301606,2080569.6691912166,1944867.3283653941
+Prevalence,Global,Both,All ages,Breast cancer,Number,2003,12295721.407934664,12812780.737214757,11857133.267802726
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2003,2061921.50443369,2298281.030646686,1840717.8974219759
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2003,1935725.0535865705,2007255.9133364991,1770935.9987478054
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2003,6353388.97159213,7605946.024232751,5269202.118619444
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2003,6373990.231707638,6534500.390267461,6165678.794369727
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2003,870299.2002630277,897296.6826075382,844981.5233474055
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2003,403103.8867653416,429231.5703379066,379715.92252009455
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2003,140289.6619845375,143728.37820854696,137031.99263963234
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2003,178907.8061812528,188800.48526815366,158662.5772696086
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2003,251570.03311115396,258643.3857832678,241501.06184892412
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2007,818700.4546972446,878747.6430574912,611571.2160432579
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2007,2119209.307026754,2231866.883684236,2021276.6369540554
+Prevalence,Global,Both,All ages,Liver cancer,Number,2007,523105.36752858374,543620.0800422358,502203.22034580057
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2007,890968.6595092345,925681.3973384494,857369.927162121
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2007,1970015.1518908588,2226439.6544996067,1749723.2537924333
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2007,882403.693096543,951289.536415684,827894.2504977015
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2007,594110.2867649191,692937.5622817905,494911.24261148047
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2007,1315488.5123847518,1348788.3883048415,1282073.3282166787
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2007,1949863.58518027,2000180.649278532,1886387.801160481
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2007,718835.819957684,771495.5095018942,592118.8060972064
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2007,1318388.9445427165,1363501.613344158,1191816.4223430674
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2007,2282636.6825880413,2358498.1188841914,2201326.82130965
+Prevalence,Global,Both,All ages,Breast cancer,Number,2007,13831854.081576657,14399636.928080058,13316025.375195647
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2007,2234602.955279513,2431555.1298081665,1990576.2834448717
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2007,2276202.4858295033,2367552.7779468503,2028756.9029409953
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2007,7311216.079619646,9102785.170868818,6247119.903464389
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2007,7506174.610145232,7713931.620016973,7246969.585531688
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2007,971377.3088804127,1001682.0895833351,943674.8110181758
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2007,521886.05739203625,560575.923698907,488392.0655629531
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2007,165898.25787463732,169542.23988605136,162292.86022658317
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2007,198503.1563730436,209001.28381879706,171339.28110158403
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2007,292406.7494911705,301261.7060921508,278669.16584124294
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2006,1902774.8582267757,2145095.592202815,1695773.6384697622
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2006,859791.6353468883,928646.7188817344,808333.3500457127
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2006,570890.8451365863,663997.694856391,471907.32602406514
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2006,1265420.518123103,1296740.5419843341,1232977.862036842
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2006,1878440.6309192916,1925471.663748369,1815618.1260769342
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2006,689818.0443069708,747950.2829538102,572138.0140125365
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2006,1259035.069682117,1304881.3365688263,1140520.133563044
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2006,813770.6320735097,875524.421262175,597173.4506913219
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2006,2069264.6113423577,2166768.2294674204,1971748.5563929977
+Prevalence,Global,Both,All ages,Liver cancer,Number,2006,509253.77762100426,529823.724388419,489044.77037016803
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2006,869680.994754794,904637.5948604216,836682.6154175559
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2006,2194825.0199589785,2267723.2330007446,2116973.5190170007
+Prevalence,Global,Both,All ages,Breast cancer,Number,2006,13392531.173427895,13943068.02551542,12906486.520797709
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2006,2191750.528509719,2406643.3836635174,1961865.7609358777
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2006,2179546.162460965,2266743.489408277,1956698.5476859557
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2006,7057929.239380161,8707310.18360663,5975677.177712603
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2006,7188561.049784857,7384116.666952419,6923904.365810837
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2006,939720.1352657223,968672.7453171721,912397.9505247935
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2006,478071.2449926929,511622.61080326897,450854.0715388258
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2006,157218.15895127636,160625.83541343894,153730.57705296454
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2006,193282.97528159135,203520.45088143946,167205.4314564376
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2006,280789.7345518375,289361.22459753416,267721.1941607664
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2009,2114605.139658929,2402727.290730679,1877126.7200902791
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2009,937116.5617459607,1007083.9419787985,877547.328998172
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2009,645960.4445941694,751782.8779909734,539969.8631212884
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2009,1431013.3846781992,1472390.7136932446,1393690.3447645153
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2009,2099770.7035016534,2161168.4501716164,2027015.5727690735
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2009,790805.716909023,850822.065692439,640083.4406570448
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2009,1445595.9005309413,1498335.0457118666,1299980.1824123987
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2008,2042391.663373964,2313045.112445203,1815175.1931197338
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2008,909482.5531521032,977865.5197067905,852216.2190414517
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2008,619161.0550994612,719190.9953584415,517033.74932519736
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2008,1377002.925497106,1415065.13014146,1341149.9589610912
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2008,2025313.5438277724,2081878.0915985173,1954891.6893859943
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2008,755158.1692219746,812956.6504753703,617772.7709510581
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2008,1386647.3903112016,1438674.992728906,1244821.6623015315
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2010,2193045.9042387954,2502336.9354813364,1941442.307200508
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2010,950867.0717432215,1023110.6709220434,888453.3325739118
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2010,666105.409101268,778616.2299250932,553481.520549357
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2010,1480527.1309184695,1525684.2826820395,1439117.1541182946
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2010,2168938.3320275727,2240028.6155624106,2090077.595366843
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2010,821670.3677629386,883508.4998709692,663975.6231621224
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2010,1496364.415161973,1549790.4339519227,1342408.4403765844
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2009,830812.0877374692,887052.0286490658,657527.9647739183
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2009,2244338.5415731003,2364786.373551168,2122685.027852271
+Prevalence,Global,Both,All ages,Liver cancer,Number,2009,555112.2715040677,580160.5087350183,530286.930753306
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2009,938764.3955638723,977470.1957132665,903265.1589955634
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2008,825253.8610730458,882819.392420661,638145.8204457476
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2008,2184971.471916265,2301345.240410074,2079718.1607152848
+Prevalence,Global,Both,All ages,Liver cancer,Number,2008,538666.2397573693,560040.0992429799,516204.2333860075
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2008,914991.1629883475,950884.9720522861,881296.5752158432
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2009,2481956.5965170027,2565948.286335287,2382059.9833393167
+Prevalence,Global,Both,All ages,Breast cancer,Number,2009,14764607.34481709,15435918.665439267,14188977.683034629
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2009,2349807.889559574,2523561.9225565344,2086236.2537348347
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2009,2524192.5169008006,2634998.0431236103,2229686.446757465
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2009,7834760.840495619,9921695.230645886,6810496.966744035
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2009,8165987.5909377895,8412783.640662242,7866424.836945933
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2009,1042358.8045795369,1075541.424716072,1009864.9147925948
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2009,615952.3529794789,664984.0291023751,574786.4548413375
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2009,187144.3670625474,190902.47968482797,182995.9406690934
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2009,207709.9657051903,218944.55561653306,178595.3895908039
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2009,317627.9846395316,327804.425617509,301590.1029336867
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2008,2387498.4570098487,2466399.9518005666,2301408.661266039
+Prevalence,Global,Both,All ages,Breast cancer,Number,2008,14301720.715538181,14907849.83330542,13760423.337469382
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2008,2290982.796677762,2505124.8951644236,2039528.123242992
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2008,2411062.8691236256,2512026.211900159,2132797.3727136245
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2008,7577845.16747245,9513368.642940205,6531400.34799292
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2008,7842103.588459681,8070905.409483099,7558950.511985048
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2008,1007058.8346407763,1041615.275832486,976374.5006147239
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2008,569530.0330921769,614694.0449316077,531387.2823912288
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2008,177399.88812828224,181050.2536561439,173416.1712789481
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2008,203527.9871446097,214542.68318294015,175135.52490441027
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2008,305542.0818432416,315175.98993682547,291368.2414834427
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2010,838261.1685467546,894423.3244393382,686404.2011869443
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2010,2307082.213517229,2438030.8852543705,2167290.7501658867
+Prevalence,Global,Both,All ages,Liver cancer,Number,2010,571050.9354065527,599239.3337209225,542404.2029710959
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2010,963284.9833282044,1005073.1634170501,924234.0787653486
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2010,2557647.481621421,2653705.9450285467,2451258.064073714
+Prevalence,Global,Both,All ages,Breast cancer,Number,2010,15198506.648765847,15914029.839189302,14571995.221118612
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2010,2409890.35497122,2563466.323949724,2113161.03059834
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2010,2628085.69567373,2750433.419318821,2322616.683910029
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2010,8075964.325182278,10313767.406886403,7082077.854806131
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2010,8456626.526781652,8738709.762129948,8128243.2090357905
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2010,1077728.4580698367,1116914.8427056477,1042211.8173795118
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2010,660318.768695197,715959.6347275437,611492.6085542318
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2010,197297.34302256614,201760.45041172608,192771.26344365213
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2010,212217.63968711498,223588.21558424912,182374.52729500213
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2010,329826.58774477185,341831.04776880343,313174.8306793848
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2013,2733697.410014988,2856705.3867797153,2605929.001945528
+Prevalence,Global,Both,All ages,Breast cancer,Number,2013,16442469.820933973,17159805.783383086,15766302.089323988
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2013,2560554.8531009834,2752841.7980816574,2203808.6414720323
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2013,2828630.874052431,2946025.3521501287,2576820.894530277
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2013,8796711.441137196,11441994.093693845,7884064.159815608
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2013,9265351.566091778,9550888.849485474,8901224.295903053
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2013,1180207.6197203072,1234055.4469636527,1135952.4164155126
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2013,736680.818168836,804206.643922962,678976.11374415
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2013,220746.34047444307,225922.6813865079,214891.38819050227
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2013,224171.30011474964,237736.81125942265,191558.73685060392
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2013,362627.6241269997,377287.7891439799,342980.0856427811
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2012,2374086.827508536,2690151.945453211,2096292.274825063
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2012,997086.4326095238,1075617.5665876297,923472.6477710633
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2012,693978.1549654432,812754.1121995973,576836.2112296527
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2012,1552251.2834320432,1598287.060052697,1507369.4591202089
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2012,2302942.6281643896,2369905.0253373687,2221220.9155011936
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2012,871194.9823254144,935158.5902231376,693527.2911469071
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2012,1545617.9112070298,1608988.0647458355,1395402.1860190288
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2013,835747.0528079653,893722.4603241906,728924.5007484908
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2013,2368694.401685954,2532977.521156458,2219755.616628072
+Prevalence,Global,Both,All ages,Liver cancer,Number,2013,621892.1703505269,647385.4168819841,592821.8586196628
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2013,1036865.5068296109,1080621.7380864804,997928.4597411738
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2012,835754.830304907,894396.0600080141,718834.1734706344
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2012,2352667.1062385067,2496382.9080751725,2209683.002148261
+Prevalence,Global,Both,All ages,Liver cancer,Number,2012,604199.0243680065,629434.2351249704,576992.6487485033
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2012,1012209.6861596203,1052481.6406650646,975991.0053026024
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2013,2479405.180743829,2807597.09473449,2183781.9351620967
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2013,1023690.370157606,1101935.2937874084,950848.4112274173
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2013,711655.3360172235,832072.306258056,591952.9884425562
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2013,1590257.8428177706,1640041.1265792777,1544120.9184924373
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2013,2372233.2372720116,2438957.331581282,2280728.176718407
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2013,898433.6882915861,962403.7691723156,705479.2164198845
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2013,1574153.412543596,1638367.4087100667,1428309.6472555145
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2012,2676417.538723915,2779949.7078860505,2554114.8885679333
+Prevalence,Global,Both,All ages,Breast cancer,Number,2012,16019379.085377375,16746866.718188062,15362583.96635885
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2012,2497500.7560458584,2662829.0270140995,2178415.2974116984
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2012,2767282.6011853917,2892349.3867334058,2499162.451106861
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2012,8545839.51446296,11039466.061395902,7635181.602384635
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2012,8991773.734135238,9264687.266708696,8656215.874390626
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2012,1146731.4597415067,1188426.7179594717,1107141.5700352758
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2012,708710.939660799,767661.6322972272,652635.7223430353
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2012,212034.3961185119,217062.88462798722,206845.01605535898
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2012,220131.98071793935,232205.54300236225,188640.00959230686
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2012,351763.92653985,364850.1874920497,332430.3359199766
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2011,2275919.114661539,2593246.7189695933,2011526.0785508547
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2011,973401.2944236271,1048122.7890834868,907454.9920880883
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2011,679296.3580270903,796213.4527255566,563966.8345363243
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2011,1516788.6766485074,1562713.044512384,1474303.9430002961
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2011,2234337.2630437305,2298406.0768628656,2156678.008611803
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2011,846617.671438149,910651.4900271803,680123.375439398
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2011,1525579.6127614852,1583082.514709099,1370232.7055811607
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2011,2621406.440831236,2725345.2555347676,2506761.185243874
+Prevalence,Global,Both,All ages,Breast cancer,Number,2011,15607526.76234501,16303341.45948747,14985586.861872124
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2011,2460345.359575465,2634404.550412679,2157679.0385380085
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2011,2713217.69649885,2843839.0587215554,2414377.950168816
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2011,8302248.096386008,10657854.573704218,7345141.81557056
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2011,8722002.966207828,8991221.90824416,8389870.086673602
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2011,1111883.6674413125,1153119.1508020537,1074168.446104217
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2011,686567.7026561868,748561.3085566997,633846.5322061001
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2011,205171.70870921208,209900.80883184556,200351.63777088918
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2011,216564.41434455337,228614.42147126445,185318.967038637
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2011,340924.492694564,353905.5314052353,323418.7857077636
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2011,836788.7231440915,894645.9666142848,694599.2728390318
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2011,2333250.717803542,2466206.649102026,2193350.3802093132
+Prevalence,Global,Both,All ages,Liver cancer,Number,2011,587080.1223006252,613953.969378496,559686.0324788133
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2011,987116.7249205195,1026816.7779767624,949836.8889011531
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2015,2678070.565989188,3034565.3796108537,2351462.6121240943
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2015,1072275.2328117744,1150389.1287765857,981622.3488646316
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2015,752751.0483355356,875414.5389833391,634445.4675290891
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2015,1673873.2009959158,1733666.3928140006,1620276.8599784218
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2015,2517585.0658584363,2611315.8156538093,2410082.7720606085
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2015,959959.3748750371,1035290.354104925,738932.2303366436
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2015,1638598.278127036,1717513.1790181932,1504268.9732619685
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2014,2579698.271229474,2921833.564709869,2274707.587936826
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2014,1054442.7562976785,1135611.438245855,970647.5793345466
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2014,732462.7662548759,852087.3100675686,611887.598173494
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2014,1625566.8102352652,1676026.7689579956,1575253.922433181
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2014,2443872.7735898322,2519429.517654438,2345925.6546202963
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2014,931752.3870276505,1004372.2158859976,724384.6656662707
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2014,1600188.8515558266,1668552.9871366557,1471200.3088156057
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2015,853083.6731486056,915204.5067311877,764618.7704590796
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2015,2436787.942107351,2613692.891279572,2258942.336715511
+Prevalence,Global,Both,All ages,Liver cancer,Number,2015,658794.596840626,696299.8411307306,620257.4226745502
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2015,1089681.4567922917,1141518.8083070684,1040815.113532523
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2015,2867126.7651208667,3001295.8583543296,2721084.531374433
+Prevalence,Global,Both,All ages,Breast cancer,Number,2015,17307887.156021312,18140731.93105365,16530753.77705979
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2015,2693697.605893411,2913704.126051239,2280844.0130839515
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2015,2973743.7933200886,3111339.7884929124,2793659.1677659424
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2015,9345324.746593168,12295031.570778178,8509777.02579383
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2015,9843151.794828488,10224837.53299904,9368217.88980313
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2015,1247992.7762638615,1303725.8389029063,1190653.9781874197
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2015,812697.0189644292,893791.7847357526,737388.4252685559
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2015,239978.2392005169,245938.06022627946,233098.48495648874
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2015,233045.6201307531,247885.42792275862,199606.00717651707
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2015,387563.23847150436,403104.3671426807,365636.48395257903
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2014,842851.8580960035,899417.558801736,744206.1700681661
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2014,2407824.848270203,2569315.8072038116,2239660.6196380784
+Prevalence,Global,Both,All ages,Liver cancer,Number,2014,640174.1315122291,669840.588751726,606159.863793188
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2014,1062220.0065722042,1105748.1160451265,1020565.6840548791
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2014,2796672.7179609044,2915171.468935102,2656864.1559559284
+Prevalence,Global,Both,All ages,Breast cancer,Number,2014,16871073.9149315,17647296.2988551,16142762.40804836
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2014,2628396.7862794353,2830576.706867979,2231613.2978225905
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2014,2886093.631747986,3022053.653067908,2682328.6638894523
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2014,9060006.634893417,11846501.108562473,8169522.526801615
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2014,9548554.49219858,9872809.309581645,9157985.980756769
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2014,1207444.2969201151,1257956.3414352464,1156029.8010265764
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2014,780082.9426199227,854559.5874646425,716118.7240783502
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2014,229427.53906356453,235045.77893359365,223214.02587393418
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2014,227838.5420314139,241295.49454962197,193933.11702238317
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2014,373407.81017505866,388288.03465564374,352413.7849040651
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2017,2873677.7868208117,3290422.5757057574,2527649.53955739
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2017,1135091.495720509,1239691.0679424952,1019361.292280068
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2017,790898.6571850297,926323.6811928855,664882.5206497244
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2017,1751818.1764443407,1845561.3905570072,1665567.950733919
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2017,2671333.35946697,2825353.7431256603,2507725.8279289585
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2017,1010642.6142430768,1115843.5012176612,763689.623397214
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2017,1716696.6645573622,1824383.7260275593,1575417.5690236522
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2018,3045511.413816037,3506981.069081857,2682237.6254634093
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2018,1174359.6723186984,1303783.679994183,1039074.735036254
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2018,817308.8236543896,972123.1101155926,683833.2609329306
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2018,1814106.780203052,1941171.3605220423,1692977.1591510915
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2018,2764351.452864542,2938282.46198485,2574521.9452652307
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2018,1041589.3606981984,1164435.6377880056,777638.698330638
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2018,1778366.992915145,1914960.7645722635,1628420.4694817297
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2016,866169.3697422554,934989.8381579169,776403.6106549654
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2016,2462971.8766583228,2654284.1346720015,2275394.7685484216
+Prevalence,Global,Both,All ages,Liver cancer,Number,2016,678681.771955539,714964.6908645284,642564.8352765697
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2016,1115496.6760699532,1165581.7736126613,1064761.4194744057
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2018,924938.8300186214,1013484.5929221848,816630.8630876911
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2018,2624435.8227312043,2881384.938713637,2373685.427956393
+Prevalence,Global,Both,All ages,Liver cancer,Number,2018,722806.3231725737,771394.7423542078,672653.9626479051
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2018,1176265.0898411532,1244643.5666998967,1110985.2080466046
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2017,890573.6206613412,968081.8913793738,806532.8554746736
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2017,2531098.2199464138,2753634.402924741,2307805.3143290184
+Prevalence,Global,Both,All ages,Liver cancer,Number,2017,700113.966862422,753668.5622472464,650873.1049767801
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2017,1142990.3473807182,1208962.401168011,1079786.4085186513
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2017,2999171.4738743096,3182437.4004230336,2809194.847013942
+Prevalence,Global,Both,All ages,Breast cancer,Number,2017,18243964.123996153,19508044.46631035,17175348.11615525
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2017,2794804.175697546,3090968.6627732874,2346737.5418099267
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2017,3071586.2374797333,3281007.824139324,2874515.142345108
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2017,10025571.979494594,13230350.119879391,8980712.601536369
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2017,10516428.610549804,11120226.958289126,9891693.156674422
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2017,1314691.534659958,1400382.5589800603,1226537.3387155363
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2017,886006.7495006531,988604.6171188647,786394.0230651883
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2017,252457.88790805853,264172.2696584488,240529.96609839005
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2017,243480.54116834508,262954.58355565846,206155.96093965403
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2017,410770.75915951416,435796.99877396156,382807.3389161575
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2016,2770310.5432387386,3150701.9963450725,2437523.2175278645
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2016,1099779.3596668737,1182096.9318636425,996874.7998767127
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2016,770270.0360728005,897073.3124213818,650869.0712437922
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2016,1709286.5722918422,1772236.0091194296,1650025.4537250013
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2016,2590556.63234521,2686479.732966424,2471807.3642494264
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2016,981454.647604151,1065581.8019421895,740341.3906520663
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2016,1675545.4203704824,1762788.407539531,1540954.055754595
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2016,2921595.1207044274,3075748.08341805,2761044.851169485
+Prevalence,Global,Both,All ages,Breast cancer,Number,2016,17766534.561925262,18731624.02238844,16944274.552376967
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2016,2750688.3906360855,2998327.9218882886,2322650.0346909277
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2016,3035906.3181939023,3201878.1683848444,2852917.636307361
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2016,9668303.38228835,12768807.778633982,8787513.05490782
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2016,10157920.420681568,10565729.800149897,9666643.340304965
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2016,1285487.8271424412,1354801.896049095,1220731.0422130844
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2016,836819.0692650288,937902.2650046707,752007.4711137344
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2016,248317.36151292943,255087.58972633685,240620.4466954935
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2016,238499.24108598294,254901.87889679786,202949.0973881077
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2016,399486.8133171225,418215.49516672094,375803.0747469934
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2018,3107189.375476355,3347749.696240341,2881715.1526012905
+Prevalence,Global,Both,All ages,Breast cancer,Number,2018,18744051.434355635,20033956.232188433,17588685.247772437
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2018,2846158.711047756,3156592.398188424,2391295.1303468663
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2018,3145767.3995516044,3422086.9397785123,2895864.4332368486
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2018,10405134.990928905,13640815.091349639,9355741.016457794
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2018,10948648.900511457,11559174.280733595,10323332.15592927
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2018,1359626.6578876742,1458770.1071960714,1251389.6056047576
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2018,934482.4219005862,1055266.8429730458,818540.9863317693
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2018,258552.32510620842,276518.5065701537,241608.27976814273
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2018,249848.82424083352,273105.0776395393,212543.17237387336
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2018,426621.389813052,456861.18118855543,395473.1215235223
+Prevalence,Global,Both,All ages,Non-melanoma skin cancer,Number,2019,3297045.601254768,3827314.2050684337,2885648.580557987
+Prevalence,Global,Both,All ages,Ovarian cancer,Number,2019,1206652.1965344704,1353763.3198382528,1064856.7393676224
+Prevalence,Global,Both,All ages,Testicular cancer,Number,2019,836029.0654107644,1005306.7033580055,702470.25367909
+Prevalence,Global,Both,All ages,Kidney cancer,Number,2019,1870081.9418647757,2029310.8445260113,1728035.814532659
+Prevalence,Global,Both,All ages,Bladder cancer,Number,2019,2869046.3942446867,3114474.388492435,2614200.3373553497
+Prevalence,Global,Both,All ages,Brain and central nervous system cancer,Number,2019,1065294.0918967477,1199906.311991077,800440.7820522564
+Prevalence,Global,Both,All ages,Thyroid cancer,Number,2019,1831760.0687079376,1985013.034089947,1656127.0863268783
+Prevalence,Global,Both,All ages,Esophageal cancer,Number,2019,960609.8308833964,1068485.2669769553,840399.1827082979
+Prevalence,Global,Both,All ages,Stomach cancer,Number,2019,2711656.821295865,3021011.3456003084,2435907.951885573
+Prevalence,Global,Both,All ages,Liver cancer,Number,2019,747288.386925774,822765.3361430172,680904.0505456034
+Prevalence,Global,Both,All ages,Larynx cancer,Number,2019,1212790.0630227213,1304926.6430693148,1127532.1994014038
+Prevalence,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2019,3212307.3907010127,3488345.580447438,2937037.1963889864
+Prevalence,Global,Both,All ages,Breast cancer,Number,2019,19283701.035842728,20778082.0746699,17735530.05156006
+Prevalence,Global,Both,All ages,Cervical cancer,Number,2019,2887521.2306175553,3219975.1628976674,2439414.892573522
+Prevalence,Global,Both,All ages,Uterine cancer,Number,2019,3223232.6679455587,3541074.14624227,2933191.5582073354
+Prevalence,Global,Both,All ages,Prostate cancer,Number,2019,10812979.19711457,13977818.98084476,9538730.656879991
+Prevalence,Global,Both,All ages,Colon and rectum cancer,Number,2019,11457627.01885955,12362959.10065634,10613035.172633078
+Prevalence,Global,Both,All ages,Lip and oral cavity cancer,Number,2019,1401931.9123711681,1519844.1918724317,1286017.3752339298
+Prevalence,Global,Both,All ages,Nasopharynx cancer,Number,2019,971935.9115649333,1119384.3918969764,845407.6610642206
+Prevalence,Global,Both,All ages,Other pharynx cancer,Number,2019,264631.58207864244,286390.50495093665,243777.75180839468
+Prevalence,Global,Both,All ages,Gallbladder and biliary tract cancer,Number,2019,256340.40991403584,282004.4549611067,215699.4471765907
+Prevalence,Global,Both,All ages,Pancreatic cancer,Number,2019,442101.2790697879,478305.44635233463,405961.68428452354
