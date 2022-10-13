@@ -1,0 +1,8 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Global,Both,All ages,Non-communicable diseases,Number,2019,42034124.45851615,43942475.73422497,40081323.113309674
+Deaths,Global,Both,All ages,"Communicable, maternal, neonatal, and nutritional diseases",Number,2019,10193394.500717144,11394855.75453491,9188550.18966926
+Deaths,Global,Both,All ages,Injuries,Number,2019,4299440.550189686,4611536.817696144,3920266.4792103255
+Deaths,Global,Both,All ages,Total burden related to hepatitis B,Number,2019,555487.3505908635,630127.8218148944,487100.4980393431
+Deaths,Global,Both,All ages,Total burden related to hepatitis C,Number,2019,542315.6120530263,608894.1243016206,476714.40671648056
+Deaths,Global,Both,All ages,Total burden related to Non-alcoholic fatty liver disease (NAFLD),Number,2019,168969.36232351421,211294.71221144503,130575.16852731662
+Deaths,Global,Both,All ages,Total cancers,Number,2019,10022803.886709914,10603827.677667692,9359049.84790855
