@@ -1,0 +1,11 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Global,Both,All ages,"Tracheal, bronchus, and lung cancer",Number,2019,2042639.736,2193268.973,1879241.24
+Deaths,Global,Both,All ages,Colon and rectum cancer,Number,2019,1085797.499,1149678.541,1002795.411
+Deaths,Global,Both,All ages,Stomach cancer,Number,2019,957185.1582,1034646.011,870949.1175
+Deaths,Global,Both,All ages,Breast cancer,Number,2019,700659.9334,751555.0798,647383.8082
+Deaths,Global,Both,All ages,Pancreatic cancer,Number,2019,531107.115,566536.8522,491948.1943
+Deaths,Global,Both,All ages,Esophageal cancer,Number,2019,498067.063,551461.598,438411.3253
+Deaths,Global,Both,All ages,Prostate cancer,Number,2019,486836.0667,593688.8455,420498.0541
+Deaths,Global,Both,All ages,Liver cancer,Number,2019,484576.6407,525797.5854,444091.3552
+Deaths,Global,Both,All ages,Other malignant neoplasms,Number,2019,408167.0872,443577.9362,355052.7504
+Deaths,Global,Both,All ages,Leukemia,Number,2019,334592.2566,360213.8975,306817.6857
