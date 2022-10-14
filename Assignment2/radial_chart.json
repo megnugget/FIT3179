@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 400,
+    "title": "Number of Deaths in the World, 2019",
+    "data": {
+      "url" : "https://raw.githubusercontent.com/megnugget/FIT3179/main/Assignment2/total_deaths.csv"
+    },
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 10, "stroke": "#ffffff","strokeWidth": 4}
+    },{
+      "mark": {"type": "text", "radiusOffset": 60,"fill" :"black"},
+      "encoding": {
+        "text": {"field": "causes", "type": "nominal"},
+        "color":{"field": "causes","scale":{"type":"linear","range":["#feebe2","#fcc5c0","#fa9fb5","#f768a1","#c51b8a"]}}
+      }
+    }],
+    "encoding": {
+      "theta": {"field": "val", "type": "quantitative", "stack": true},
+      "radius": {"field": "val", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "val", "type": "nominal", "legend": null,"value":"black"},
+      "tooltip": [
+          {"field": "val", "type": "nominal", "title": "% of Deaths"},
+          {"field": "causes", "type": "nominal", "title": "Cause"}]
+          
+    }
+  }
+  

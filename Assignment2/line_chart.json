@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 400,
+    "width": 500,
+    "title": "Deaths from Cancer by age group over Time",
+    "data": {"url": "https://raw.githubusercontent.com/megnugget/FIT3179/main/Assignment2/death_agegroup.csv"},
+    "transform": [
+      {"fold": ["Age: 70+ years", "Age: 50-69 years", "Age: 15-49 years","Age: 5-14 years","Age: Under 5"]}],
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "encoding": {
+      "x": {"timeUnit": "year", "field": "Year","title": "Year"},
+      "y": {"field": "value", "type": "quantitative","title": "Number Of Deaths"},
+      "color": {"field": "key", "type": "nominal"},
+      "tooltip": [
+          {"field": "key", "type": "nominal", "title": "Group"},
+          {"field": "value", "type": "nominal", "title": "Number of Deaths"},{"field": "Year", "type": "nominal", "title": "Year"}]
+    }
+  }
+  

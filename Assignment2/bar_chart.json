@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 400,
+    "width":400,
+    "title": "Top 10 deaths by cancer in the world",
+    "data": {
+      "url": "https://raw.githubusercontent.com/megnugget/FIT3179/main/Assignment2/death_by_types.csv"
+    },
+    "encoding": {
+      "y": {"field": "cause", "type": "nominal","title": "Type Of Cancer"},
+      "x": {"field": "val", "type": "quantitative", "scale": {"domain": [0, 2042640]},"title": "Number of Deaths"},
+      "color": {"value": "#c51b8a"}
+    },
+    "layer": [{
+      "mark": "bar"
+    }, {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 4
+      },
+      "encoding": {
+        "text": {"field": "val", "type": "quantitative","format":".0f"},
+        "color": {"value": "black"}
+        
+      }
+    }]
+  }
+  
